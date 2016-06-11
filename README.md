@@ -1,5 +1,11 @@
 # Clipboard-Manager
 
+How it works and motivation:
+
+Read the Relatório file.
+
+How to excute it:
+
 Just download the ClipboardManager_final folder and open the ClipboardManager.pro with 
 QtCreator IDE.
 
